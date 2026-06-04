@@ -1,6 +1,6 @@
 # 📐 运筹学课程设计
 
-> **2023级运筹学课程设计** — 经典图论与网络流算法的 C++ 实现
+> **河海大学 · 2023级运筹学课程设计** — 经典图论与网络流算法的 C++ 实现
 
 [![C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus)](https://cplusplus.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
@@ -9,7 +9,7 @@
 
 ## 📖 项目简介
 
-本项目为运筹学课程设计的算法实现集合，涵盖了**图论**与**网络流**领域的经典算法。所有代码均使用 C++ 编写，基于邻接表存储结构，适用于洛谷（Luogu）在线评测平台的对应题目。
+本项目为**河海大学 2023 级运筹学课程设计**的算法实现集合，涵盖了**图论**与**网络流**领域的经典算法。所有代码均使用 C++ 编写，基于邻接表存储结构，适用于洛谷（Luogu）在线评测平台的对应题目。
 
 ---
 
