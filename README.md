@@ -130,4 +130,6 @@ g++ -O2 -o 最大流 "P3376【模板】网络最大流.cpp"
 
 **⭐ 如果对你有帮助，欢迎 Star！**
 
+[![Star History Chart](https://api.star-history.com/svg?repos=Wang-Ruibin/Operations-Research&type=Date)](https://star-history.com/#Wang-Ruibin/Operations-Research&Date)
+
 </div>
